@@ -3,7 +3,7 @@ title: "Unity初心者がAIと一緒に、約1週間でブロック崩しを完�
 emoji: "🎮"
 type: "idea"
 topics: ["unity", "csharp", "ゲーム制作", "ai"]
-published: false
+published: true
 ---
 
 ## はじめに
