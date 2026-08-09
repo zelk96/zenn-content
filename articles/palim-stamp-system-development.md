@@ -3,8 +3,7 @@ title: "敵を足場に変える「スタンプ」から始まった、2Dアク�
 emoji: "🎮"
 type: "idea"
 topics: ["unity", "csharp", "ゲーム制作", "個人開発"]
-published: true
-published_at: 2026-08-12 12:00
+published: false
 ---
 
 Unityで初めてブロック崩しを完成させたあと、次の作品として2Dアクションゲーム『Palim』の制作を始めました。
