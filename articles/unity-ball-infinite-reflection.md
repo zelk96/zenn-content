@@ -3,7 +3,7 @@ title: "Unityのブロック崩しでボールが水平・垂直に無限反射�
 emoji: "🐞"
 type: "tech"
 topics: ["unity", "csharp", "ゲーム制作", "デバッグ"]
-published: false
+published: true
 ---
 
 Unityの学習を始めて最初に制作したブロック崩しで、ボールが水平または垂直方向にだけ反射し続ける問題が発生しました。
