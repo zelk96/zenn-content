@@ -3,7 +3,8 @@ title: "Unityでジャンプ後の落下が遅い原因は、毎フレームY速
 emoji: "🧱"
 type: "tech"
 topics: ["unity", "csharp", "ゲーム制作", "unity2d"]
-published: false
+published: true
+published_at: 2026-08-10 12:00
 ---
 
 Unityで初めて2Dアクションの左右移動とジャンプを実装したとき、プレイヤーがジャンプ後になかなか落下しない問題が発生しました。
