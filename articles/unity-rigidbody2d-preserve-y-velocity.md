@@ -3,7 +3,7 @@ title: "Unityでジャンプ後の落下が遅い原因は、毎フレームY速
 emoji: "🧱"
 type: "tech"
 topics: ["unity", "csharp", "ゲーム制作", "unity2d"]
-published: false
+published: true
 published_at: 2026-08-10 12:00
 ---
 
