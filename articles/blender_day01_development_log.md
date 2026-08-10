@@ -28,7 +28,7 @@ Blender公式の推奨スペックには届いていない部分もあります�
 
 初日の課題として、立方体を組み合わせたシンプルな机を作りました。
 
-![完成レンダリング画像](/images/blender_day01_development_log/Day01_Desk_Render.png")
+![完成レンダリング画像](/images/blender_day01_development_log/Day01_Desk_Render.png)
 
 完成までのおおまかな工程は次のとおりです。
 
@@ -67,7 +67,7 @@ Blender公式の推奨スペックには届いていない部分もあります�
 
 この作業を通して、数値を入力して正確に変形・配置する方法と、既存のオブジェクトを複製して効率よく作る方法を体験できました。
 
-![モデリング途中](/images/blender_day01_development_log/モデリング途中.png")
+![モデリング途中](/images/blender_day01_development_log/モデリング途中.png)
 
 ## スケールの適用とベベル
 
@@ -98,7 +98,7 @@ Blender公式の推奨スペックには届いていない部分もあります�
 
 マテリアルプレビューへ切り替えた瞬間、白いモデルだった机に色が付き、一気に作品らしく見えたのが印象的でした。
 
-![マテリアル設定後](/images/blender_day01_development_log/マテリアル設定後.png")
+![マテリアル設定後](/images/blender_day01_development_log/マテリアル設定後.png)
 
 ## カメラ・ライト・レンダリング
 
@@ -115,8 +115,8 @@ Blender公式の推奨スペックには届いていない部分もあります�
 
 再レンダリングすると影の境界が柔らかくなり、暗い部分にも自然に光が回るようになりました。同じモデルでも、ライトの種類や大きさによって印象が大きく変わることが分かりました。
 
-![初回レンダリング](/images/blender_day01_development_log/初回レンダリング.png")
-![調整後レンダリング](/images/blender_day01_development_log/調整後レンダリング.png")
+![初回レンダリング](/images/blender_day01_development_log/初回レンダリング.png)
+![調整後レンダリング](/images/blender_day01_development_log/調整後レンダリング.png)
 
 ## 今日覚えた主なショートカット
 
