@@ -3,7 +3,8 @@ title: "【Blender学習 Day 1】初めての3Dモデリングで机を作って
 emoji: "🪑"
 type: "idea"
 topics: ["blender", "3dcg", "初心者", "学習記録"]
-published: false
+published: true
+published_at: 2026-08-13 12:00
 ---
 
 ## はじめに
