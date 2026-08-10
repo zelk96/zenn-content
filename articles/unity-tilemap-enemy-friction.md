@@ -4,7 +4,6 @@ emoji: "⚙️"
 type: "tech"
 topics: ["unity", "csharp", "ゲーム制作", "unity2d"]
 published: true
-published_at: 2026-08-11 12:00
 ---
 
 Unityで2DアクションゲームのステージをTilemapへ移行したとき、巡回する敵が床の途中で止まる問題が発生しました。
